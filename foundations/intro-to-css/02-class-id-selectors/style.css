@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.number1,.number3,.number5 {
+    background-color: rgb(253, 200, 208);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#number2 {
+    font-size: 36px;
+    color: rgb(83, 163, 255);
+}
+
+.number3 {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: rgb(102, 242, 102);
+    font-size: 24px;
+    font-weight: bold;
+}
